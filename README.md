@@ -26,7 +26,7 @@
 ## Usage
 
 * [Code](https://github.com/ginocorp/ginocorp_merch/tree/master/Develop)
-* [Walkthrough Video](https://drive.google.com/file/d/1o9Pb0H-dQ1KsYCMB2hx7r_steZQU4srt/view)
+* [Walkthrough Video](https://drive.google.com/file/d/1o9Pb0H-dQ1KsYCMB2hx7r_steZQU4srt/view){:target="_blank" rel="noopener"}
 
 * Node.js
 * MySQL Workbench
