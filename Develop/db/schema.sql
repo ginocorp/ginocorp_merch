@@ -1,6 +1,6 @@
 -- DROP DATABASE
-DROP DATABASE IF EXISTS ecommerce_db;
+DROP DATABASE IF EXISTS ginocorp_merch_db;
 
 -- CREATE DATABASE
-CREATE DATABASE ecommerce_db;
+CREATE DATABASE ginocorp_merch_db;
 
