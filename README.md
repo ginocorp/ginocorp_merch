@@ -20,9 +20,6 @@
 5. Run the server and open Postman to view, create, and alter your database
 6. If you get stuck on any steps, watch the walkthrough video or [contact](mailto:gdcolman95@gmail.com) me. 
 
-## Difficulties
-* The main issue I ran into was the license badge not displaying as an image on the sampleREADME.md, but was able to fix after figuring out the typo. 
-
 ## Usage
 
 * [Code](https://github.com/ginocorp/ginocorp_merch/tree/master/Develop)
